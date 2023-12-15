@@ -7,7 +7,7 @@ Setup & Configure Maven and Git
 Setup Tomcat Server
 Integrating GitHub, Maven, and Tomcat Server with Jenkins
 Create a CI and CD job
-Test the deployment on AWS
+Test the deployment
 
 Prerequisites:
 
